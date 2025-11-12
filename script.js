@@ -36,4 +36,11 @@ console.log("cette phrase comporte " + compteur + " voyelles")
 
 
 
+const tableau = [12, 15, 16, 17];
+
+for (let i = 0; i < tableau.lenght; i++) {
+          
+}
+
+
 
